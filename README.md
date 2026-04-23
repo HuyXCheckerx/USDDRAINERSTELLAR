@@ -1,4 +1,4 @@
-# Title
+# Token Drainer on Stellar Blockchain
 USDC/SPL Token/ Native token Drainer
 # Description
 This project is created as PoC for drainers running in the wild, with the sold purpose of helping to raise awareness, as well as aid developers in developing countermeasures.
